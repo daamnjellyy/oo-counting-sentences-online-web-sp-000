@@ -9,8 +9,6 @@ class String
       return false
     end
 
-  end
-
   def question?
 
   end
